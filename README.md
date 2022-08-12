@@ -8,4 +8,4 @@ This is Alice. I am a BA.
  I didn't. I just want to learn.
 
 # My name is Alice.
-[https://www.sanrio.com/collections/hello-kitty] !(image)[https://i.shgcdn.com/1ec9c187-9579-42d4-be9e-f4161e8df9e1/-/format/auto/-/preview/3000x3000/-/quality/lighter/]
+[https://www.sanrio.com/collections/hello-kitty] ![image] [https://i.shgcdn.com/1ec9c187-9579-42d4-be9e-f4161e8df9e1/-/format/auto/-/preview/3000x3000/-/quality/lighter/]
